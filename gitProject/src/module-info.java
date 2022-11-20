@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Omnise
+ *
+ */
+module gitProject {
+}
